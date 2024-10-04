@@ -3,3 +3,10 @@ transformers
 deeppavlov
 torch
 peft
+spacy
+openai
+fasttext
+datasets
+tiktoken
+sentencepiece
+accelerate
