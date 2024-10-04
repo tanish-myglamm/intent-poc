@@ -1,0 +1,19 @@
+Text,Label
+"I need to change the delivery address for my order.",0
+"Please cancel my order number 12345.",0
+"My gift card code isn't working when I try to apply it.",1
+"Do you have any discount codes available right now?",1
+"One of the items in my order is missing, can you help?",1
+"I was charged but the transaction failed, what should I do?",2
+"I'd like to add a new delivery address to my account.",2
+"When will my order be delivered?",3
+"How do I initiate a return for a damaged product?",3
+"What's the status of my refund?",3
+"Can you help me with the birthday discount?",4
+"I have a question about your company policies.",4
+"Where can I find your shipping policy details?",4
+"I want to know more about your privacy policy.",4
+"What are your terms and conditions?",11
+"How does your returns and replacements policy work?",11
+"Hi there!",12
+"I need help with something else.",12

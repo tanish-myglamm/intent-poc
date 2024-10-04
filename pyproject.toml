@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "intent-poc"
+version = "0.1.0"
+description = ""
+authors = ["tanihs"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.39.0"
+transformers = "^4.45.1"
+spacy = "^3.8.2"
+openai = "^1.51.0"
+fasttext = "^0.9.3"
+datasets = "^3.0.1"
+tiktoken = "^0.8.0"
+torch = "^2.4.1"
+sentencepiece = "^0.2.0"
+accelerate = "^0.34.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
